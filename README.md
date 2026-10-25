@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devhasina&label=Profile%20views&color=0e75b6&style=flat" alt="devhasina" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devhasina" alt="devhasina" /></a> </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devhasina&theme=darkhub" alt="GitHub Trophy" />
+</p>
+
 
 - 🔭 I’m currently working on [freelancer](https://www.freelancer.com/u/devhasina77)
 
