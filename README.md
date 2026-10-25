@@ -1,6 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGPvDqgX6xpFQ/profile-displaybackgroundimage-shrink_350_1400/B56Z9rY25OGoAU-/0/1784213106556?e=1790208000&v=beta&t=J22bw-W6RNz-yKUpvOGhyr2QpQRCJhahyOrInfZEEns" alt="Mosammad Hasina Akter Banner" width="100%">
-
+<a href="https://ibb.co.com/RGhqYnJt"><img src="https://i.ibb.co.com/bjHkQhGY/Mosammad-Hasina-Akter-Web-Designer-Developer.jpg" alt="Mosammad-Hasina-Akter-Web-Designer-Developer" border="0"></a>
 <h1 align="center">Hi 👋, I'm Mossammad Hasina Akter</h1>
 <h3 align="center">I'm a passionate Web Designer, Developer, and WordPress Expert. I create fast, modern, and fully responsive websites by combining clean design with exceptional</h3>
 
